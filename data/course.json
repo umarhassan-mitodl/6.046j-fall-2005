@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "legacy_uid": "9e6fbb54-8601-d046-b61f-dff90c09f8c9",
+  "instructors": {
+    "content": [
+      "1650916a-e340-08ef-7cf3-e98b6241deec",
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f79f55df-6aae-6289-ed44-a7170e19acd0",
+    "website": "6-046j-introduction-to-algorithms-sma-5503-fall-2005"
+  },
+  "course_title": "Introduction to Algorithms (SMA 5503)",
+  "course_description": "This course teaches techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics covered include: sorting; search trees, heaps, and hashing; divide-and-conquer; dynamic programming; amortized analysis; graph algorithms; shortest paths; network flow; computational geometry; number-theoretic algorithms; polynomial and matrix calculations; caching; and parallel computing.\n\nThis course was also taught as part of the {{% resource_link \"2c39e7b7-ae42-4722-b14a-fa0b2ea3473b\" \"Singapore-MIT Alliance\" %}} (SMA) programme as course number SMA 5503 (Analysis and Design of Algorithms).\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.410J",
+  "primary_course_number": "6.046J",
+  "course_image_thumbnail": {
+    "content": "56d328f0-156c-6095-8d5c-cfe7aaa87803",
+    "website": "6-046j-introduction-to-algorithms-sma-5503-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "2ffa33c5-5f6c-4da3-a7d6-d5455d54179d",
+  "site_short_id": "6.046j-fall-2005",
+  "site_url_path": "courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005",
+  "title": "Course Metadata"
+}
