@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the information on the course textbook, readings
   covered in the lectures and other useful references for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -17,7 +15,7 @@ video_metadata:
 
 The table below provides information on the course's reading assignments, which are taken from the course textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/9780262033848). 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
+{{% resource_link "89b7a18b-e04c-4183-8376-e88421ab802c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "89b7a18b-e04c-4183-8376-e88421ab802c" "_Introduction to Algorithms_" %}}. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
 
 In addition to the assigned course readings, see the list of [useful references](#useful_references) for the course below.
 

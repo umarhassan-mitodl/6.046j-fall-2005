@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes nine problem sets along with their solutions and
   other related files.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

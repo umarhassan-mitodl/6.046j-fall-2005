@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/954e0884c3e35781b5f3b568985a73a0_Ttezuzs39nk.vtt
 file_size: 85687
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information about the course objectives, outcomes,
   prerequisites, lectures, recitations, handouts, texts, registration, problem sets,
   grading and collaboration policy for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -76,7 +74,7 @@ Most handouts will be made available on the server in formats suitable for print
 Text
 ----
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/9780262033848). 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
+{{% resource_link "89b7a18b-e04c-4183-8376-e88421ab802c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "89b7a18b-e04c-4183-8376-e88421ab802c" "_Introduction to Algorithms_" %}}. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
 
 Extra Help
 ----------
